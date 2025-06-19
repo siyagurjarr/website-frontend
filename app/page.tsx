@@ -38,6 +38,19 @@ export default function Home() {
           priority
         />
       </div>
+<div className="mt-12 w-full max-w-3xl text-white">
+  <h1 className="text-3xl font-bold mb-4">B.E. Programs (Part-Time)</h1>
+  <p className="mb-4">
+    IET is presently offering <strong>Part-Time 4-Year B.E. Programs</strong> in the following five branches:
+  </p>
+  <ul className="list-disc list-inside space-y-2">
+    <li>B.E. (Mechanical Engineering)</li>
+    <li>B.E. (Computer Engineering)</li>
+    <li>B.E. (Electronics & Instrumentation Engineering)</li>
+    <li>B.E. (Information Technology)</li>
+    <li>B.E. (Electronics & Telecommunication Engineering)</li>
+  </ul>
+</div>
 
       <div className="mb-32 grid text-center lg:mb-0 lg:w-full lg:max-w-5xl lg:grid-cols-4 lg:text-left">
         <a
